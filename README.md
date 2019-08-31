@@ -1,2 +1,3 @@
-![](logo/lauren.gif)
-
+<p align="center">
+  <img src="logo/lauren.gif">
+</p>
