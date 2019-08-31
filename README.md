@@ -1,2 +1,2 @@
-# Lauren
+![](logo/lauren.gif)
 
